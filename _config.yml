@@ -1,6 +1,4 @@
-remote_theme: jekyll/minima
-plugins:
-  - jekyll-remote-theme
+theme: jekyll-theme-minima
 
 title: Nicholas Niecikowski
 description: Portfolio
